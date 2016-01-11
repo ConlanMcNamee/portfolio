@@ -1,3 +1,12 @@
+body {
+  font-family: Helvetica, Arial, Verdana, sans-serif;
+}
 .template {
   display: none;
+}
+h1.name {
+  font-size: 24px;
+}
+.byline {
+  font-style: italic;
 }
